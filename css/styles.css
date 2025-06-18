@@ -1348,18 +1348,18 @@ a:focus {
 
                 .footer-container {
                     display: flex;
-                    flex-wrap: nowrap; /* Запрещаем перенос */
-                    align-items: flex-start; /* Выравниваем по верхнему краю */
+                    flex-wrap: nowrap;
+                    align-items: flex-start; 
                     max-width: 1158px;
                     margin: 0 auto;
                     padding: 0 15px;
-                    gap: 0; /* Убираем стандартные отступы */
+                    gap: 0; 
                   }
                 
                   /* Лого + текст */
                   .footer-logo-container {
                     margin-right: 120px;
-                    width: 264px; /* Фиксированная ширина */
+                    width: 264px; 
                   }
                 
                   /* Соцсети */
@@ -1367,27 +1367,26 @@ a:focus {
                     margin-right: 80px;
                   }
                 
-                  /* Форма подписки */
                   .footer-input-container {
-                    margin-left: auto; /* Прижимаем к правому краю */
-                    width: 453px; /* Как в скриншоте */
+                    margin-left: auto; 
+                    width: 453px;
                   }
                 
                   .footer-subscribe-form {
                     display: flex;
                     gap: 24px;
-                    align-items: flex-end; /* Кнопка снизу */
+                    align-items: flex-end;
                   }
                 
                   .footer-input {
-                    width: 264px; /* Фиксированная ширина */
+                    width: 264px;
                   }
                 
                   /* Кнопка */
                   .footer-button {
                     min-width: 165px;
                     height: 40px;
-                    margin: 0; /* Сбрасываем отступы */
+                    margin: 0;
                   }
 
 }
