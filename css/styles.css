@@ -85,7 +85,7 @@ img {
     /* padding: 24px 0; */
     padding-top: 16px;
     padding-bottom: 16px;
-    margin-right: 76px;
+    padding-right: 76px;
 }
 
 .header-logo-black {
@@ -193,7 +193,7 @@ img {
 }
 
 .mob-menu-contacts-list{
-    margin-bottom: 48px;
+    padding-bottom: 48px;
 }
 
 .mob-menu-contacts-item:not(:last-child){
@@ -685,7 +685,7 @@ margin-bottom: 40px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
-    margin-bottom: 72px;
+    padding-bottom: 72px;
     text-align: left;
 }
 
@@ -704,7 +704,7 @@ margin-bottom: 40px;
     display: flex;
     justify-content: center;
     gap: 16px;
-    margin-bottom: 72px;
+    padding-bottom: 72px;
 }
 
 .footer-social-icon {
@@ -1056,8 +1056,8 @@ a:focus {
         }
 
         .team-section{
-            /* padding-left: 92px;
-            padding-right: 92px; */
+            padding-left: 92px;
+            padding-right: 92px;
         }
 
         .team-list{
@@ -1124,11 +1124,9 @@ a:focus {
         }
         
         .contacts-item:last-child{
-            margin-bottom: 16px;
         }
 
         .contacts-item:first-child{
-            margin-top: 16px;
         }
 
         .contacts-link{
@@ -1153,7 +1151,6 @@ a:focus {
 
         .footer-logo-container {
             margin-right: 24px;
-            margin-bottom: 72px;
             text-align: left;       
         }
 
